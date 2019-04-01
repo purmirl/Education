@@ -1,11 +1,15 @@
 # Hacking Cirriculum
+- hacker school cirriculum.
 https://www.hackerschool.org/HS_Boards/data/Free_Board/co.pdf
 
 # Pwnable
+- pwnable Korea
 https://pwnable.kr/ <p>
+- pwnable Taiwan
 https://pwnable.tw/
 
 # Webhacking
+- webcaking Korea
 http://webhacking.kr/
 
 # Dictionary
