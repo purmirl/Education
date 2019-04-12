@@ -34,7 +34,13 @@ http://gwanbo.mois.go.kr/main.do
 # IR
 
 # Forensic
-
+- 한국포렌식학회
+https://forensickorea.org/wp/ <p>
+- 한국디지털포렌식학회
+https://kdfs.jams.or.kr/co/main/jmMain.kci <p>
+- 한국디지털포렌식전문가협회
+http://www.kdfpa.or.kr/ <p>
+  
 # Article
 - 2013 cyber terror response system.
 http://news.chosun.com/site/data/html_dir/2013/03/22/2013032200240.html <p>
