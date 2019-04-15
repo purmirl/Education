@@ -6,15 +6,21 @@ https://www.hackerschool.org/HS_Boards/data/Free_Board/co.pdf
 - pwnable Korea.
 https://pwnable.kr/ <p>
 - pwnable Taiwan.
-https://pwnable.tw/
+https://pwnable.tw/ <p>
 
 # Webhacking
 - webcaking Korea.
-http://webhacking.kr/
+http://webhacking.kr/ <p>
 
+# Algorithm
+ - hackerrank
+ https://www.hackerrank.com/ <p>
+ - baekjoon
+ https://www.acmicpc.net/ <p>
+   
 # Dictionary
 - ICT dictionary.
-http://www.ktword.co.kr/index.php
+http://www.ktword.co.kr/index.php <p>
 
 # Aduit
 - Information Security Management System.
@@ -45,3 +51,5 @@ http://www.kdfpa.or.kr/ <p>
 - 2013 cyber terror response system.
 http://news.chosun.com/site/data/html_dir/2013/03/22/2013032200240.html <p>
 
+- 2019 Korea graduate school of information security.
+https://www.boannews.com/media/view.asp?idx=74317 <p>
