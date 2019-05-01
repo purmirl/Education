@@ -36,6 +36,11 @@ http://www.law.go.kr/lsInfoP.do?lsiSeq=206009&efYd=20190325#0000 <p>
 http://www.law.go.kr/lsInfoP.do?lsiSeq=195062&efYd=20171019 <p>
 - Korea government gazette.
 http://gwanbo.mois.go.kr/main.do
+- AhnLab
+https://www.ahnlab.com/kr/site/product/consultType1.do <p>
+- Naver
+https://privacy.naver.com/main?menu=home <p>
+ 
 
 # IR
 
