@@ -35,12 +35,16 @@ http://www.law.go.kr/lsInfoP.do?lsiSeq=206009&efYd=20190325#0000 <p>
 - law of Korea 개인정보보호법.
 http://www.law.go.kr/lsInfoP.do?lsiSeq=195062&efYd=20171019 <p>
 - Korea government gazette.
-http://gwanbo.mois.go.kr/main.do
+http://gwanbo.mois.go.kr/main.do <p>
+
+# Information Security Consulting
 - AhnLab
 https://www.ahnlab.com/kr/site/product/consultType1.do <p>
 - Naver
 https://privacy.naver.com/main?menu=home <p>
- 
+- LG CNS
+https://blog.lgcns.com/1074 <p>
+
 # Account Firm
 - Deloitte
 https://www2.deloitte.com/kr/ko.html <p>
