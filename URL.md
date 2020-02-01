@@ -2,6 +2,10 @@
 - hacker school cirriculum.
 https://www.hackerschool.org/HS_Boards/data/Free_Board/co.pdf
 
+# IT Study
+- Cornell University arxiv
+https://arxiv.org/
+
 # Pwnable
 - pwnable Korea.
 https://pwnable.kr/ <p>
