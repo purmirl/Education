@@ -1,4 +1,4 @@
-# Hacking Curriculum
+## Hacking Curriculum
 - hacker school curriculum.
 https://www.hackerschool.org/HS_Boards/data/Free_Board/co.pdf
 
