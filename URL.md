@@ -81,3 +81,6 @@ http://news.chosun.com/site/data/html_dir/2013/03/22/2013032200240.html <p>
 
 - 2019 Korea graduate school of information security.
 https://www.boannews.com/media/view.asp?idx=74317 <p>
+
+- 2020 Gartner top 10 strategic technology trends for 2020
+https://www.gartner.com/en/newsroom/press-releases/2019-10-21-gartner-identifies-the-top-10-strategic-technology-trends-for-2020 <p>
