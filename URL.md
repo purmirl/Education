@@ -1,10 +1,12 @@
-# Hacking Cirriculum
-- hacker school cirriculum.
+# Hacking Curriculum
+- hacker school curriculum.
 https://www.hackerschool.org/HS_Boards/data/Free_Board/co.pdf
 
 # IT Study
 - Cornell University arxiv
-https://arxiv.org/
+https://arxiv.org/ <p>
+- W3Schools
+https://www.w3schools.com/ <p>
 
 # CTF
 - pwnable.kr
