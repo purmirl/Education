@@ -33,6 +33,9 @@ http://www.ktword.co.kr/index.php <p>
 - ISO/IEC 27001.
 https://www.iso.org/isoiec-27001-information-security.html <p>
  
+- GDPR.
+https://gdpr-info.eu/ <p>
+
 - Information Security Management System.
 https://isms.kisa.or.kr/main/isms/intro/index.jsp <p>
 https://isms.kisa.or.kr/main/isms/notice/?boardId=bbs_0000000000000001&mode=view&cntId=47&category=%EC%95%88%EB%82%B4%EC%84%9C&pageIdx= <p>
