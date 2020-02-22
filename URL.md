@@ -91,3 +91,6 @@ https://www.gartner.com/en/newsroom/press-releases/2019-10-21-gartner-identifies
 ## Whois
 - KISA (Korea Whois)
 https://xn--c79as89aj0e29b77z.xn--3e0b707e/ <p>
+
+- Europe
+https://www.ripe.net/ <p>
