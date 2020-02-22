@@ -87,3 +87,7 @@ https://www.boannews.com/media/view.asp?idx=74317 <p>
 
 - 2020 Gartner top 10 strategic technology trends for 2020
 https://www.gartner.com/en/newsroom/press-releases/2019-10-21-gartner-identifies-the-top-10-strategic-technology-trends-for-2020 <p>
+
+## Whois
+- KISA (Korea Whois)
+https://xn--c79as89aj0e29b77z.xn--3e0b707e/ <p>
