@@ -19,7 +19,7 @@ http://webhacking.kr/ <p>
 http://net-force.nl/ <p>
 
 
-## Algorithm
+## Algorithm Study
  - hackerrank
  https://www.hackerrank.com/ <p>
  - baekjoon
