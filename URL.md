@@ -101,4 +101,7 @@ http://www.arin.net/whois/ <p>
 - Asia & Pacific (APNIC)
 https://www.apnic.net/search/index.html <p>
 
+- Latin America (LACNIC)
+http://lacnic.net/cgi-bin/lacnic/whois <p>
+
 
