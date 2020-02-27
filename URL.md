@@ -104,4 +104,5 @@ https://www.apnic.net/search/index.html <p>
 - Latin America (LACNIC)
 http://lacnic.net/cgi-bin/lacnic/whois <p>
 
-
+- Whole
+http://www.internic.net/whois.html <p>
