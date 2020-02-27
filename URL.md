@@ -94,3 +94,8 @@ https://xn--c79as89aj0e29b77z.xn--3e0b707e/ <p>
 
 - Europe
 https://www.ripe.net/ <p>
+ 
+- North America (ARIN)
+http://www.arin.net/whois/ <p>
+
+
