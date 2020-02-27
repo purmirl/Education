@@ -97,5 +97,8 @@ https://www.ripe.net/ <p>
  
 - North America (ARIN)
 http://www.arin.net/whois/ <p>
+ 
+- Asia
+https://www.apnic.net/search/index.html <p>
 
 
