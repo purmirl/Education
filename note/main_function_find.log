@@ -1,0 +1,1 @@
+find . -name "*.o" -exec nm -A {} \; | grep -w main
