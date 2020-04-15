@@ -73,6 +73,8 @@ https://www.pwc.com/kr/ko.html <p>
 https://www.wireshark.org/ <p>
 - Dev C++
 https://sourceforge.net/projects/orwelldevcpp/ <p>
+- Packet Tracer
+https://www.netacad.com/courses/packet-tracer <p>
  
 ## IR
 
