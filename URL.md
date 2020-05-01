@@ -57,6 +57,8 @@ https://www.ahnlab.com/kr/site/product/consultType1.do <p>
 https://privacy.naver.com/main?menu=home <p>
 - LG CNS
 https://blog.lgcns.com/1074 <p>
+- Ministry of Interior and safety, Korea
+https://mois.go.kr/frt/bbs/type001/commonSelectBoardList.do?bbsId=BBSMSTR_000000000045 <p>
 
 ## Account Firm
 - Deloitte
