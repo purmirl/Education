@@ -1,3 +1,6 @@
+## Lecture
+http://www.kmooc.kr/ <p>
+
 ## Hacking Curriculum
 - hacker school curriculum.
 https://www.hackerschool.org/HS_Boards/data/Free_Board/co.pdf
@@ -116,3 +119,4 @@ http://lacnic.net/cgi-bin/lacnic/whois <p>
 
 - Whole
 http://www.internic.net/whois.html <p>
+
