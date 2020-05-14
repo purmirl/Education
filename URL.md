@@ -1,5 +1,5 @@
 ## Lecture
- - KMOOC
+ - Korea MOOC (KMOOC)
 http://www.kmooc.kr/ <p>
 
 ## Hacking Curriculum
