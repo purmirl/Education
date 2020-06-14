@@ -1,5 +1,5 @@
 ## Linux
- - Good Information Blog
+ - Good Information Blog.
 https://crampstory.tistory.com/40 <p>
  
 ## Lecture
