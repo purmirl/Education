@@ -1,3 +1,7 @@
+## Linux
+ - Good Information Blog
+https://crampstory.tistory.com/40 <p>
+ 
 ## Lecture
  - Korea MOOC (KMOOC)
 http://www.kmooc.kr/ <p>
